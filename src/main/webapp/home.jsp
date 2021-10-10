@@ -42,14 +42,9 @@ function gotoShowlltasks()
 <script type="text/javascript">
 function gotoMsg()
 {
-if(is_done==null|description==null)
-{
-     alert("Enter all Details");
-}
-{
     alert("Data Submitted Successfully");
- }
 }
+
 </script>
 
 </body>
